@@ -1,0 +1,5 @@
+# Python 3.7.8 
+youtube-dl==2021.12.17
+pafy==0.5.5
+
+# IN file backend_youtube_dl.py-dislike count=0 cause yt itself removed dislikes
